@@ -30,6 +30,8 @@ modified: '2026-05-09'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/penske
   - type: Website
     url: https://www.penske.com/
 maintainers:
